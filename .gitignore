@@ -1,0 +1,10 @@
+*.pro.user
+*.so
+*.so.*
+*.o
+Makefile
+Makefile.*
+build*
+release*
+moc_*
+
